@@ -18,5 +18,5 @@ Here are a few repositories of interest outside of the ROBOKOP org:
 * [Biolink Model](https://github.com/biolink/biolink-model) is the data model used by ROBOKOP
 * [Plater](https://github.com/TranslatorSRI/Plater) ingests a Biolink-compliant KG and exposes standard APIs
 * [TRAPI](https://github.com/NCATSTranslator/ReasonerAPI) is the graph query API used by the NCATS Translator project.
-* [Reasoner-transpiler] (https://github.com/ranking-agent/reasoner-transpiler) converts TRAPI queries into cypher
+* [Reasoner Transpiler](https://github.com/ranking-agent/reasoner-transpiler) converts TRAPI queries into cypher
 
