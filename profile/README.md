@@ -20,3 +20,5 @@ Here are a few repositories of interest outside of the ROBOKOP org:
 * [TRAPI](https://github.com/NCATSTranslator/ReasonerAPI) is the graph query API used by the NCATS Translator project.
 * [Reasoner Transpiler](https://github.com/ranking-agent/reasoner-transpiler) converts TRAPI queries into cypher
 
+### Architecture
+![image](https://github.com/user-attachments/assets/376ab6da-3335-4d16-9f26-0aae454132d8)
