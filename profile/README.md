@@ -21,4 +21,4 @@ Here are a few repositories of interest outside of the ROBOKOP org:
 * [Reasoner Transpiler](https://github.com/ranking-agent/reasoner-transpiler) converts TRAPI queries into cypher
 
 ### Architecture
-![image](https://github.com/user-attachments/assets/376ab6da-3335-4d16-9f26-0aae454132d8)
+![image](https://github.com/user-attachments/assets/258df8b5-08c2-4088-a878-806a7bbd660d)
